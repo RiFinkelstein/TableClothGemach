@@ -21,14 +21,20 @@ I need to have the person's phone number in case they don't bring back the table
 Once the customer returns the tablecloth, the deposit money switches to 0, and if they donate money, it goes into the donations column.
 
 Questions:
-- Is there a minimum and/or maximum amount of time to take the tablecloths?
-  - There is no minimum or maximum, but usually, people will pick it up on Tuesday and drop off on Monday unless they have an exception, and that won't be longer than a week.
+Q:Is there a minimum and/or maximum amount of time to take the tablecloths?
+  A:There is no minimum or maximum, but usually, people will pick it up on Tuesday and drop off on Monday unless they have an exception, and that won't be longer than a week.
 
-- Can someone take a tablecloth in advance?
-  - Yes, they can reserve it as far in advance as possible. People won't come earlier than 3 months in advance. If they don't reserve it, the tablecloths they want are not available.
+Q:Can someone take a tablecloth in advance?
+  A:Yes, they can reserve it as far in advance as possible. People won't come earlier than 3 months in advance. If they don't reserve it, the tablecloths they want are not available.
 
-- Do you have more than one of each tablecloth?
-  - Yes, they come in sets of 6, so someone can reserve as many sets of 6 as they need.
+Q:Do you have more than one of each tablecloth?
+  A:Yes, they come in sets of 6, so someone can reserve as many sets of 6 as they need.
+
+Q:When is a tablecloth considered lost? 
+	A:after 2 weeks with no return, after that they would rerent it
+
+Q:what's with the deposit when it's lost? Do you add that to donations?
+	A:yes it is added to the donations money and we use it to buy a new set
 
 Reports:
 1. I need to know which tablecloths are the most popular so I can buy more of them.
